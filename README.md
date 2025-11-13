@@ -613,4 +613,8 @@ O modelo apresenta bom desempenho para previsões horárias, com baixa variabili
 
 A estabilidade entre os folds indica um modelo consistente e generalizável.
 
+<img width="1286" height="418" alt="{251FF2DA-3A9E-4BF7-BE27-CEDD94A212BE}" src="https://github.com/user-attachments/assets/afcf6543-661a-4edd-af97-677e30ea6f83" />
+
+<img width="1263" height="408" alt="{A5DEA6F2-F893-4459-BF3F-D0A83458BFFE}" src="https://github.com/user-attachments/assets/11f3ad42-fc93-4ff7-8029-02784ce24774" />
+
 Esses resultados atendem plenamente ao desafio, oferecendo previsões coesas e confiáveis.
